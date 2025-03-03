@@ -29,6 +29,8 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <h1>cualquier cosa </h1>
+
+      <h1>Los perros del software</h1>
       
     </>
   )
